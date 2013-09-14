@@ -1,5 +1,0 @@
-encoding "utf8";
-
-TTextMinerConfig {
-  Dictionary = "mydic.gzt";
-}
