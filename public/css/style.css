@@ -1,0 +1,17 @@
+.image {
+    text-align: center;
+}
+
+.twitter-icon {
+    height: 2em;
+    vertical-align: middle;
+}
+
+.people-buttons {
+    width: 90%;
+}
+
+.people-buttons .btn {
+    text-align: left;
+    line-height: 2em;
+}
